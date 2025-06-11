@@ -1,3 +1,5 @@
+
+
 ## 📅 Day 01: Introduction to Cybersecurity & Ethical Hacking
 
 
@@ -67,6 +69,16 @@ The **CIA Triad** forms the foundation of all cybersecurity efforts:
 - **Separation of Duties:** Divide critical tasks among multiple people or systems  
 - **Accountability:** Ensure traceability of actions through logging and auditing  
 - **Secure by Design:** Build systems with security integrated from the start
+
+---
+
+
+### ⚔️ Red Team vs. Blue Team vs. Purple Team
+| Team | Role | Real-World Scenario | Key Skills |
+|------|------|----------------------|-------------|
+| **Red Team** | Offensive security experts who simulate real-world attacks to test defenses. | Simulate phishing and social engineering attacks to gain unauthorized access to systems. | Ethical hacking, penetration testing, social engineering, scripting, exploit development |
+| **Blue Team** | Defensive team focused on detecting, responding, and mitigating attacks. | Respond to a detected malware outbreak within an organization’s internal network. | Network defense, SIEM analysis, threat hunting, incident response, digital forensics |
+| **Purple Team** | Bridge between Red and Blue teams to enhance collaboration and efficiency. | After a Red Team assessment, work with Blue Team to close gaps and improve response strategy. | Cross-domain knowledge, communication, detection improvement, scripting, analysis |
 
 ---
 
